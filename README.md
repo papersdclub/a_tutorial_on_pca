@@ -11,6 +11,8 @@ Orignal paper:
 
 ## Resources 
 (add links to Medium articles and other things here if you think it's appropriate) 
+1) https://medium.com/free-code-camp/an-overview-of-principal-component-analysis-6340e3bc4073
 
 ## Links to implementations made by members 
 (add your link)
+1) https://drive.google.com/open?id=1aczJpGDUOQvYxmtQnAXcYI0Cx1DG3a1f

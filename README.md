@@ -16,3 +16,8 @@ Orignal paper:
 ## Links to implementations made by members 
 (add your link)
 1) https://drive.google.com/open?id=1aczJpGDUOQvYxmtQnAXcYI0Cx1DG3a1f
+
+## Implementation summary
+| Author          | Language      | Short Link  |
+| -------------   |:-------------:| -----:|
+| Name or handler | Python        | [example](https://www.numpy.org/) |

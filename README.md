@@ -1,2 +1,7 @@
-# a_tutorial_on_pca
-Repo for PCA implementations and related resources 
+# A Tutorial on PCA
+
+## Resources 
+(add links to Medium articles and other things here if you think it's appropriate) 
+
+## Links to implementations made by members 
+(add your link)

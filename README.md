@@ -7,7 +7,7 @@ Orignal paper:
 **Alternative link (if arXiv is down): [link](https://www.arxiv-vanity.com/papers/1404.1100/)**  
 
 [**QUIZ**](https://www.surveymonkey.com/r/RV3SDRC)(take after you complete the paper)
-[**Solutions**] To be added soon 
+[**Solutions**](https://github.com/papersdclub/a_tutorial_on_pca/blob/master/quiz_solutions.md)
 
 ## Resources 
 (add links to Medium articles and other things here if you think it's appropriate: add the name of the resource and a link)

@@ -2,12 +2,13 @@
 
 ## Basic Info
 
-Orignal paper: 
+### Orignal paper: 
 **Paper: ["A Tutorial on Principal Component Analysis"](https://arxiv.org/pdf/1404.1100.pdf)**  
 **Alternative link (if arXiv is down): [link](https://www.arxiv-vanity.com/papers/1404.1100/)**  
 
-[**QUIZ**](https://www.surveymonkey.com/r/RV3SDRC)(take after you complete the paper)
-[**Solutions**](https://github.com/papersdclub/a_tutorial_on_pca/blob/master/quiz_solutions.md)
+### Quiz
+- [**QUIZ**](https://www.surveymonkey.com/r/RV3SDRC)(take after you complete the paper). 
+- [**Solutions**](https://github.com/papersdclub/a_tutorial_on_pca/blob/master/quiz_solutions.md)(please do not read before taking the quiz)
 
 ## Resources 
 (add links to Medium articles and other things here if you think it's appropriate: add the name of the resource and a link)

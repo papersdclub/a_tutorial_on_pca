@@ -17,7 +17,8 @@
 ## Links to implementations made by members 
 (Add your entry in the table below, see [guidelines](https://github.com/papersdclub/theclub/blob/master/implementation_guidelines.md))
 
-## Implementation summary
+**Implementations summary**
+
 | Author          | Language      | Short Link  |
-| -------------   |:-------------:| :-----|
-| shiv-u | Python        | [Link](https://drive.google.com/open?id=1aczJpGDUOQvYxmtQnAXcYI0Cx1DG3a1f) |
+| -------------   |:-------------:| :---------- |
+| shiv-u | Python | [Link](https://drive.google.com/open?id=1aczJpGDUOQvYxmtQnAXcYI0Cx1DG3a1f) |

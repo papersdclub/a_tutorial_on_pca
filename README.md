@@ -22,4 +22,4 @@
 | Author          | Language      | Short Link  |
 | -------------   |:-------------:| :---------- |
 | shiv-u | Python | [Link](https://drive.google.com/open?id=1aczJpGDUOQvYxmtQnAXcYI0Cx1DG3a1f) |
-| Diego | Python | [Link](https://github.com/dimun/pca_compression) |
+| Diego | Python | [dimun/pca_compression](https://github.com/dimun/pca_compression) |

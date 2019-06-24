@@ -15,11 +15,11 @@
 1) https://medium.com/free-code-camp/an-overview-of-principal-component-analysis-6340e3bc4073
 
 ## Links to implementations made by members 
-(add your link, see [guidelines](https://github.com/papersdclub/theclub/blob/master/implementation_guidelines.md))
-1) https://drive.google.com/open?id=1aczJpGDUOQvYxmtQnAXcYI0Cx1DG3a1f
-2) https://github.com/dimun/pca_compression
+(Add your entry in the table below, see [guidelines](https://github.com/papersdclub/theclub/blob/master/implementation_guidelines.md))
 
-## Implementation summary
+**Implementations summary**
+
 | Author          | Language      | Short Link  |
-| -------------   |:-------------:| -----:|
-| Name or handler | Python        | [example](https://www.numpy.org/) |
+| -------------   |:-------------:| :---------- |
+| shiv-u | Python | [Link](https://drive.google.com/open?id=1aczJpGDUOQvYxmtQnAXcYI0Cx1DG3a1f) |
+| Diego | Python | [Link](https://github.com/dimun/pca_compression) |

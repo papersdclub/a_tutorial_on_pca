@@ -5,6 +5,7 @@
 ### Original paper: 
 **Paper: ["A Tutorial on Principal Component Analysis"](https://arxiv.org/pdf/1404.1100.pdf)**  
 **Alternative link (if arXiv is down): [link](https://www.arxiv-vanity.com/papers/1404.1100/)**  
+**Summary of live discussion: [link](discussion.md)**
 
 ### Quiz
 - [**QUIZ**](https://www.surveymonkey.com/r/RV3SDRC)(take after you complete the paper). 

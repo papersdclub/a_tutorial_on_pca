@@ -24,4 +24,4 @@
 | -------------   |:-------------:| :---------- |
 | shiv-u | Python | [Link](https://drive.google.com/open?id=1aczJpGDUOQvYxmtQnAXcYI0Cx1DG3a1f) |
 | Diego | Python | [dimun/pca_compression](https://github.com/dimun/pca_compression) |
-|Abhishek Tandon| Python| [Link](https://github.com/Tandon-A/ufldl-python-solutions/blob/master/PCA.py)
+| Abhishek Tandon | Python | [ ufldl-python-solutions/PCA](https://github.com/Tandon-A/ufldl-python-solutions/blob/master/PCA.py) |
